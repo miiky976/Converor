@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Converor</string>
+    <string name="calculate">Calcular</string>
+    <string name="temperature">Temperatura</string>
+    <string-array name="temperature_values">
+        <item>Kelvin</item>
+        <item>Fahrenheit</item>
+        <item>Celsius</item>
+    </string-array>
+    <string name="weight">Peso</string>
+    <string-array name="weight_values">
+        <item>Gramos</item>
+        <item>Kilogramos</item>
+        <item>Miligramos</item>
+        <item>Onzas</item>
+        <item>Libras</item>
+        <item>Toneladas</item>
+    </string-array>
+    <string name="lenght">Longitud</string>
+    <string-array name="lenght_values">
+        <item>Centimetros</item>
+        <item>Metros</item>
+        <item>Pulgadas</item>
+        <item>Pies</item>
+        <item>Yardas</item>
+        <item>Millas</item>
+    </string-array>
+    <string name="volume">Volumen</string>
+    <string-array name="volume_values">
+        <item>Mililitros</item>
+        <item>Litros</item>
+        <item>Metros</item>
+        <item>Pies</item>
+        <item>Galones</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

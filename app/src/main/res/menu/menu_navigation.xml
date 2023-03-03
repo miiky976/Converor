@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navtemperature"
+        android:title="@string/temperature"
+        android:icon="@drawable/round_device_thermostat_24" />
+    <item android:id="@+id/navweight"
+        android:title="@string/weight"
+        android:icon="@drawable/round_fitness_center_24"/>
+    <item android:id="@+id/navvolume"
+        android:title="@string/volume"
+        android:icon="@drawable/round_view_in_ar_24"/>
+    <item android:id="@+id/navlenght"
+        android:title="@string/lenght"
+        android:icon="@drawable/round_straighten_24"/>
+</menu>
